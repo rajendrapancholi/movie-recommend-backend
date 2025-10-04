@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 models/trained_model.pkl  # optional if large
+create_admin.py
